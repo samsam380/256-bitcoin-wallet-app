@@ -32,7 +32,7 @@ const env = {
   appSlug: "bitcoin-wallet-app",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png
-  logoUrl: "",
+  logoUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663611492374/gDGbv9n9k4YCPcr3eNKpDY/bitcoin-wallet-icon-K3J4YbytmiDR3dZzFeS7MW.png",
   scheme: schemeFromBundleId,
   iosBundleId: bundleId,
   androidPackage: bundleId,

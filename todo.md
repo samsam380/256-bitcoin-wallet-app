@@ -1,0 +1,19 @@
+# Project TODO
+
+- [x] Configure Bitcoin-themed color palette (theme.config.js)
+- [x] Set up tab navigation (Wallet + Settings tabs)
+- [x] Add icon mappings for tabs (icon-symbol.tsx)
+- [x] Build Home/Portfolio screen with balance display
+- [x] Build Transaction History section
+- [x] Build Send BTC modal screen
+- [x] Build Receive BTC modal screen with QR code
+- [x] Build Settings screen
+- [x] Implement wallet creation (generate seed phrase / address)
+- [x] Implement local wallet storage with AsyncStorage
+- [x] Implement live BTC price feed (CoinGecko API)
+- [x] Implement QR code generation for receive address
+- [x] Implement QR code scanning for send address
+- [x] Implement transaction simulation/demo logic
+- [x] Build onboarding/welcome flow
+- [x] Generate app logo and configure branding
+- [x] Final polish and delivery
