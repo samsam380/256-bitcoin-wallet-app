@@ -17,3 +17,4 @@
 - [x] Build onboarding/welcome flow
 - [x] Generate app logo and configure branding
 - [x] Final polish and delivery
+- [x] Rename app to "256 Bitcoin Wallet"

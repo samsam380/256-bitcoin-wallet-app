@@ -51,7 +51,7 @@ export default function OnboardingScreen() {
             <Text className="text-4xl text-white font-bold">₿</Text>
           </View>
           <Text className="text-3xl font-bold text-foreground text-center">
-            Bitcoin Wallet
+            256 Bitcoin Wallet
           </Text>
           <Text className="text-base text-muted text-center px-8">
             Securely store, send, and receive Bitcoin on your mobile device.

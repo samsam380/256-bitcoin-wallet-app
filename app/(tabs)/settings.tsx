@@ -169,7 +169,7 @@ export default function SettingsScreen() {
 
         {/* Version */}
         <Text className="text-muted text-xs text-center mt-6">
-          Bitcoin Wallet v1.0.0
+          256 Bitcoin Wallet v1.0.0
         </Text>
       </ScrollView>
     </ScreenContainer>
